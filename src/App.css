@@ -1,0 +1,14 @@
+.search-header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.sui-search-box {
+  min-width: 600px;
+}
+
+.lang-selector {
+  max-width: 200px;
+  margin-left: 20px;
+}
